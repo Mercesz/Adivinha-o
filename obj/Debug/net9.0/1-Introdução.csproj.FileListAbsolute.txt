@@ -1,0 +1,14 @@
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\bin\Debug\net9.0\1-Introdução.exe
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\bin\Debug\net9.0\1-Introdução.deps.json
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\bin\Debug\net9.0\1-Introdução.runtimeconfig.json
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\bin\Debug\net9.0\1-Introdução.dll
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\bin\Debug\net9.0\1-Introdução.pdb
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.dll
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\refint\1-Introdução.dll
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.pdb
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\1-Introdução.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\Bootcamps\Formação .NET Developer\1-Introdução\obj\Debug\net9.0\ref\1-Introdução.dll
