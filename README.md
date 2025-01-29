@@ -1,2 +1,2 @@
-# Adivinha-o
+# Adivinha
 Jogo de Adivinhação
